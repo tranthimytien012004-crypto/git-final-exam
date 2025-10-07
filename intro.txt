@@ -11,3 +11,10 @@ Kỹ năng:
 Làm việc nhóm
 Thiết kế giao diện
 Giao tiếp
+Kế hoạch học tập:
+Rèn luyện kiến thức Git và GitHub.
+Ôn lại cấu trúc dữ liệu và giải thuật.
+Học thêm về lập trình hướng đối tượng.
+Thực hành làm các dự án nhỏ.
+Tìm hiểu thêm về bảo mật thông tin.
+
