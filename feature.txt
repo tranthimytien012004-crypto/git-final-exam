@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý người dùng
+- Người dùng có thể đăng ký
+- Người dùng có thể đăng nhập
+- Hỗ trợ phân quyền (Admin/User)
+- Cho phép cập nhật thông tin cá nhân
+- Có chức năng reset mật khẩu
