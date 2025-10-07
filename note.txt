@@ -1,3 +1,6 @@
 - Git giúp quản lý phiên bản code
 - Dễ dàng làm việc nhóm
 - Theo dõi lịch sử thay đổi
+- Ban đầu hơi khó nhớ lệnh
+- Nhưng luyện tập sẽ quen
+ 
